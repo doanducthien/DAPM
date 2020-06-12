@@ -1,3 +1,0 @@
-module 2
-// bài chưa đạt yêu cầu
-
