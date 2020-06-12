@@ -1,5 +1,9 @@
 Read me!
 QUản lý dự án phần mềm.
 Doan Duc Thien nhu loz
+<<<<<<< HEAD
 Nguyen The Dat da sua
 Nguyen The Dat da sua lan 2
+
+Nguyen The Dat ngu nhu con bo
+>>>>>>> 1a558fcdb3aa602f675b205ad3a93c0247de4b18
