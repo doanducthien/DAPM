@@ -1,3 +1,7 @@
 nguyen the dat
+<<<<<<< HEAD
 --
 Doan DUc Thien
+=======
+nguyen the dat 2
+>>>>>>> thedat
